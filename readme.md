@@ -3,9 +3,9 @@
 ## Como Usar:
 
 1. **Clone o Repositório:**
-   ```bash
+```bash
    git clone https://github.com/SupraOfc/bot-sinais-fortune-tiger-supraofc.git
-   
+```
 Instale as Dependências:
 Certifique-se de ter o Node.js instalado. Em seguida, navegue até o diretório do projeto e execute o seguinte comando:
 
