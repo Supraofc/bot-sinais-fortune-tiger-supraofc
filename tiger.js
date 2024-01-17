@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 const api_key = ''; //Api do bot
-const chat_id = '-1002001279046'; //Id do grupo
+const chat_id = ''; //Id do grupo
 const LINK_SITE = 'https://goldbet.games/cadastro?refId=Mjc1N3JlZklk';
 const bot = new Telegraf(api_key);
 
